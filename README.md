@@ -1,1 +1,1 @@
-# ScanWFBTbynkt is used to get RSSI,MAC (Wifi), UUID (Bluetooth) and export file.txt
+# ScanWFBTbynkt can get RSSI,MAC (Wifi), UUID (Bluetooth) and export file.txt
